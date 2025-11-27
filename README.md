@@ -1,2 +1,17 @@
-# projeto-gerenciador-vendas
-Sistema CLI (terminal) para controle de vendas e estoque de pequenos comerciantes. Utiliza SQLite com tabelas relacionadas para gerenciar produtos (CRUD), registrar vendas com baixa automática de estoque e impedir rupturas. Gera relatórios essenciais de total vendido, produto mais vendido e lucro estimado (Preço - Custo).
+# Sistema de Controle de Vendas
+
+Projeto desenvolvido em Python para gerenciamento de vendas locais,
+incluindo cadastro de produtos, registro de vendas e geração de relatórios.
+
+## Tecnologias
+- Python
+- SQLite
+- SQL
+
+## Funcionalidades
+- Cadastro de produtos
+- Registro de vendas
+- Relatórios de faturamento
+
+## Como executar
+python main.py
